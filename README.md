@@ -1,6 +1,8 @@
 # Chess
 This is a Chess game recreated in C++ as a foundational exercise in Object Oriented Programming (OOP). Our team opted to implement the Model-View-Controller (MVC) architecture along with the Observer design pattern to allow us to separate the logic of the game from the presentation through the User Interfaces. This approach also allows there to be 2 different types of interfaces: Text and Graphical (these are our ConcreteObservers in this project).
 
+![Chess Picture](https://github.com/Reyansh14/chess/blob/main/chess_pic1.PNG)
+
 ## About the Project:
 - See the uml-final.pdf file to view the UML Diagram of our project.
 - See the design.pdf file to understand how we designed our project and the reasoning behind why we implemented certain design patterns.
